@@ -889,6 +889,103 @@ video {
   border-color: rgb(203 213 225 / var(--tw-border-opacity));
 }
 
+/* Light Background Colors */
+
+.bg-blue-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(219 234 254 / var(--tw-bg-opacity)); /* #dbf0fe */
+}
+
+.bg-teal-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(224 252 241 / var(--tw-bg-opacity)); /* #e0fcef */
+}
+
+.bg-orange-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 242 204 / var(--tw-bg-opacity)); /* #fffbcc */
+}
+
+.bg-yellow-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(253 250 232 / var(--tw-bg-opacity)); /* #fdfbe8 */
+}
+
+.bg-lime-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(236 253 179 / var(--tw-bg-opacity)); /* #ecfdb3 */
+}
+
+.bg-purple-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(234 234 255 / var(--tw-bg-opacity)); /* #eaeaff */
+}
+
+.bg-sky-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(240 249 255 / var(--tw-bg-opacity)); /* #f0f9ff */
+}
+
+.bg-amber-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 250 235 / var(--tw-bg-opacity)); /* #fffaeb */
+}
+
+.bg-cyan-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(224 252 255 / var(--tw-bg-opacity)); /* #e0fcff */
+}
+
+.bg-gray-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(229 231 235 / var(--tw-bg-opacity)); /* #e5e7eb */
+}
+
+.bg-green-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(217 252 225 / var(--tw-bg-opacity)); /* #d9fce1 */
+}
+
+.bg-indigo-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(224 231 255 / var(--tw-bg-opacity)); /* #e0e7ff */
+}
+
+.bg-pink-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(253 224 236 / var(--tw-bg-opacity)); /* #fde0ec */
+}
+
+.bg-rose-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 233 236 / var(--tw-bg-opacity)); /* #ffe9ec */
+}
+
+.bg-teal-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(184 249 220 / var(--tw-bg-opacity)); /* #b8f9dc */
+}
+
+.bg-orange-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 222 186 / var(--tw-bg-opacity)); /* #ffdeba */
+}
+
+.bg-yellow-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 249 196 / var(--tw-bg-opacity)); /* #fff9c4 */
+}
+
+.bg-lime-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(226 255 116 / var(--tw-bg-opacity)); /* #e2ff74 */
+}
+
+.bg-purple-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(240 239 255 / var(--tw-bg-opacity)); /* #f0efff */
+}
+
 .bg-cyan-50 {
   --tw-bg-opacity: 1;
   background-color: rgb(236 254 255 / var(--tw-bg-opacity));
