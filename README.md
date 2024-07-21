@@ -9,7 +9,7 @@ Check out the live demo of the portfolio here: [View Demo](https://sharpwoofer.g
 ## 🛠️ Technologies Used
 
 [![Next.js](https://img.shields.io/badge/Next.js-14%2B-blue?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-%18.x%2B-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5%2B-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-^5.5.0-00C4CC?style=flat&logo=framer&logoColor=white)](https://www.framer.com/api/motion/)
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-6.4.0-339AF0?style=flat&logo=font-awesome&logoColor=white)](https://fontawesome.com/)
