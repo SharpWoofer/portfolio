@@ -20,8 +20,8 @@ module.exports = {
         'mid-dark' : '#1D1D1D',
       },
       backgroundImage: {
-        'image-dark': "url('/images/bg-image.jpg')",
-        'image-light': "url('/images/bg-light.jpg')"
+        'image-dark': "url('./images/bg-image.jpg')",
+        'image-light': "url('./images/bg-light.jpg')"
       }
     },
   },
